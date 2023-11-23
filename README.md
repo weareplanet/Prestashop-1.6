@@ -13,7 +13,8 @@ This repository contains the PrestaShop WeArePlanet payment module that enables 
 
 ## Documentation
 
-* [English](@WalleeDocPath(/docs/en/documentation.html))
+* [Documentation](https://plugin-documentation.weareplanet.com/weareplanet/prestashop-1.6/1.2.38/docs/en/documentation.html)
+
 
 ## Support
 
@@ -21,7 +22,7 @@ Support queries can be issued on the [WeArePlanet support site](https://payments
 
 ## License
 
-Please see the [license file](@WalleeRepoPath(/LICENSE)) for more information.
+Please see the [license file](https://github.com/weareplanet/Prestashop-1.6/blob/main/LICENSE)  for more information.
 
 ## Other PrestaShop Versions
 
